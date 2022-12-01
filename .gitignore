@@ -1,0 +1,16 @@
+.idea/
+
+User.Application/bin/
+User.Application/obj/
+
+User.Contracts/bin/
+User.Contracts/obj/
+
+User.Domain/bin/
+User.Domain/obj/
+
+User.Infrastructure/bin/
+User.Infrastructure/obj/
+
+User.MVC/bin/
+User.MVC/obj/
